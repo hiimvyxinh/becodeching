@@ -1,0 +1,13 @@
+p {
+  text-decoration: underline;
+  text-align: center;
+  text-transform: uppercase;
+  letter-spacing: 20px;
+  font-weight: 700;
+  text-emphasis: unset;
+  font-size: 100%;
+  background-color: turquoise;
+}
+span {
+  text-decoration: line-through;
+}
